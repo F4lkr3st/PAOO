@@ -1,0 +1,3 @@
+/home/Cristian/RS/PAOO/CMakeFiles/tema_1.dir
+/home/Cristian/RS/PAOO/CMakeFiles/edit_cache.dir
+/home/Cristian/RS/PAOO/CMakeFiles/rebuild_cache.dir
